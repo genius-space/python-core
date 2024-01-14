@@ -1,0 +1,11 @@
+fastapi
+fastapi-users[sqlalchemy]
+uvicorn[standard]
+asyncpg
+Pillow
+python-dotenv
+httpx
+pytest
+pydantic-settings
+aiofiles
+pytest-asyncio

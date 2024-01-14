@@ -1,0 +1,8 @@
+docker image ls
+docker rm image_name or id / docker rmi $(docker images -a -q)
+docker pull postgres
+docker run -itd -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=123321 -p 5432:5432 -v /Users/dmytro.buzoveria/Desktop/pg_data:/var/lib/postgresql/data --name postgresql postgres
+docker exec -it postgresql bash
+psql -h localhost -U postgres
+
+docker inspect postgresql

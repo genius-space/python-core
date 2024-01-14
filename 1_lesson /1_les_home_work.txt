@@ -1,0 +1,9 @@
+1. Встановити Python на свій компʼютер
+2. Встановити середовище розробки: Pycharm або VSCode
+3. Створити або використати готовий файл з розширенням .py
+4. Написати свою першу програму print('Hello world!')
+
+Посилання:
+Встановлення на Windows - https://docs.python.org/uk/3.12/using/windows.html
+Встановлення на macOS - https://docs.python.org/uk/3.12/using/mac.html
+Корисний путівник - https://pythonguide.rozh2sch.org.ua

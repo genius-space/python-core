@@ -1,0 +1,3 @@
+https://fastapi-users.github.io/fastapi-users/12.1/
+https://www.postman.com/downloads/
+https://iteducenter.medium.com/утиліта-curl-полегшує-життя-49b69f64a930

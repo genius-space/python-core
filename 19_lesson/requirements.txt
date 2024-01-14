@@ -1,0 +1,6 @@
+fastapi
+fastapi-users[sqlalchemy]
+uvicorn[standard]
+asyncpg
+Pillow
+python-dotenv

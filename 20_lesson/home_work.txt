@@ -1,0 +1,5 @@
+Написали тести, які перевіряють випадки поганого сценарію, як було розглянуто в кінці уроку, за основу для тест кейсів брати документацію бібліотеки fastaapi users
+
+Корисні посилання
+https://fastapi-users.github.io/fastapi-users/12.1/usage/routes/
+https://docs.pytest.org/en/7.1.x/getting-started.html
